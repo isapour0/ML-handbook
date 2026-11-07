@@ -36,11 +36,11 @@ By working through this handbook, readers will be able to:
 
 | # | Topic | Status |
 |---|-------|:------:|
-| 1.1 | [Introduction to Machine Learning]() | ✅ |
+| 1.1 | [Introduction to Machine Learning](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.1.%20Introduction.md) | ✅ |
 | 1.2 | [Types of Machine Learning]() | ✅ |
 | 1.3 | [Data Preprocessing and Feature Engineering]() | ✅ |
-| 1.4 | [Dataset Splitting]() | 🚧 |
-| 1.5 | [Model Training and Generalization](/) | ⏳ |
+| 1.4 | [Dataset Splitting]() | ✅ |
+| 1.5 | [Model Training and Generalization](/) | 🚧 |
 | 1.6 | [Overfitting and Underfitting]() | ⏳ |
 | 1.7 | [Bias-Variance Tradeoff]() | ⏳ |
 | 1.8 | [Regularization Fundamentals]() | ⏳ |
