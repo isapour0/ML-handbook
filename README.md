@@ -38,8 +38,8 @@ By working through this handbook, readers will be able to:
 |---|-------|:------:|
 | 1.1 | [Introduction to Machine Learning]() | ✅ |
 | 1.2 | [Types of Machine Learning]() | ✅ |
-| 1.3 | [Data Preprocessing and Feature Engineering]() | 🚧 |
-| 1.4 | [Dataset Splitting]() | ⏳ |
+| 1.3 | [Data Preprocessing and Feature Engineering]() | ✅ |
+| 1.4 | [Dataset Splitting]() | 🚧 |
 | 1.5 | [Model Training and Generalization](/) | ⏳ |
 | 1.6 | [Overfitting and Underfitting]() | ⏳ |
 | 1.7 | [Bias-Variance Tradeoff]() | ⏳ |
