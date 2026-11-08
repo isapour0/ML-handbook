@@ -41,8 +41,8 @@ By working through this handbook, readers will be able to:
 | 1.3 | [Data Preprocessing and Feature Engineering](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.3.%20DataPreprocessing-and-FeatureEngineering.md) |✅|
 | 1.4 | [Dataset Splitting](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.4.%20Dataset-Splitting.md) | ✅ |
 | 1.5 | [Model Training and Generalization](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.5.%20ModelTraining-and-Generalization.md) | ✅ |
-| 1.6 | [Overfitting and Underfitting]() | 🚧 |
-| 1.7 | [Bias-Variance Tradeoff]() | ⏳ |
+| 1.6 | [Overfitting and Underfitting](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.6.%20overfitting-and-underfitting.md) | ✅ |
+| 1.7 | [Bias-Variance Tradeoff]() | 🚧 |
 | 1.8 | [Regularization Fundamentals]() | ⏳ |
 | 1.9 | [Gradient Descent and Optimization](/) | ⏳ |
 | 1.10 | [Model Evaluation and Cross-Validation]() | ⏳ |
@@ -54,35 +54,34 @@ By working through this handbook, readers will be able to:
 
 | # | Topic | Status |
 |---|-------|:------:|
-| 2.1 | [What Is Supervised Learning?]() | ⏳ |
 
-#### 2.2 Regression
-
-| # | Topic | Status |
-|---|-------|:------:|
-| 2.2.1 | [What Is Regression?]() | ⏳ |
-| 2.2.2 | [Simple Linear Regression]() | ⏳ |
-| 2.2.3 | [Multiple Linear Regression]() | ⏳ |
-| 2.2.4 | [Non-Linear and Polynomial Regression]() | ⏳ |
-| 2.2.5 | [Regularized Regression (Ridge, Lasso, Elastic Net)]() | ⏳ |
-
-#### 2.3 Classification
+#### 2.1 Regression
 
 | # | Topic | Status |
 |---|-------|:------:|
-| 2.3.1 | [What Is Classification?]() | ⏳ |
-| 2.3.2 | [K-Nearest Neighbors (KNN)]() | ⏳ |
-| 2.3.3 | [Naive Bayes]() | ⏳ |
-| 2.3.4 | [Logistic Regression]() | ⏳ |
-| 2.3.5 | [Decision Tree]() | ⏳ |
-| 2.3.6 | [Support Vector Machine (SVM)]() | ⏳ |
+| 2.1.1 | [What Is Regression?]() | ⏳ |
+| 2.1.2 | [Simple Linear Regression]() | ⏳ |
+| 2.1.3 | [Multiple Linear Regression]() | ⏳ |
+| 2.1.4 | [Non-Linear and Polynomial Regression]() | ⏳ |
+| 2.1.5 | [Regularized Regression (Ridge, Lasso, Elastic Net)]() | ⏳ |
 
-#### 2.4 Ensemble Methods
+#### 2.2 Classification
 
 | # | Topic | Status |
 |---|-------|:------:|
-| 2.4.1 | [Bagging]() | ⏳ |
-| 2.4.2 | [Boosting]() | ⏳ |
+| 2.2.1 | [What Is Classification?]() | ⏳ |
+| 2.2.2 | [K-Nearest Neighbors (KNN)]() | ⏳ |
+| 2.2.3 | [Logistic Regression]() | ⏳ |
+| 2.2.4 | [Decision Tree]() | ⏳ |
+| 2.2.5 | [Support Vector Machine (SVM)]() | ⏳ |
+| 2.2.6 | [Naive Bayes]() | ⏳ |
+
+#### 2.3 Ensemble Methods
+
+| # | Topic | Status |
+|---|-------|:------:|
+| 2.3.1 | [Bagging]() | ⏳ |
+| 2.3.2 | [Boosting]() | ⏳ |
 
 ### 3. Unsupervised Learning
 
