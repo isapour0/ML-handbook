@@ -38,8 +38,7 @@ By working through this handbook, readers will be able to:
 |---|-------|:------:|
 | 1.1 | [Introduction to Machine Learning](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.1.%20Introduction.md) | ✅ |
 | 1.2 | [Types of Machine Learning](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.2.%20Type-of-ML.md) | ✅ |
-| 1.3 | [Data Preprocessing and Feature Engineering](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.3.%20DataPreprocessing-and-FeatureEngineering.md
-) | ✅ |
+| 1.3 | [Data Preprocessing and Feature Engineering](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.3.%20DataPreprocessing-and-FeatureEngineering.md) |✅|
 | 1.4 | [Dataset Splitting](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.4.%20Dataset-Splitting.md) | ✅ |
 | 1.5 | [Model Training and Generalization](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.5.%20ModelTraining-and-Generalization.md) | ✅ |
 | 1.6 | [Overfitting and Underfitting]() | 🚧 |
