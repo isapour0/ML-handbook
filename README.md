@@ -42,8 +42,8 @@ By working through this handbook, readers will be able to:
 | 1.4 | [Dataset Splitting](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.4.%20Dataset-Splitting.md) | ✅ |
 | 1.5 | [Model Training and Generalization](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.5.%20ModelTraining-and-Generalization.md) | ✅ |
 | 1.6 | [Overfitting and Underfitting](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.6.%20overfitting-and-underfitting.md) | ✅ |
-| 1.7 | [Bias-Variance Tradeoff]() | 🚧 |
-| 1.8 | [Regularization Fundamentals]() | ⏳ |
+| 1.7 | [Bias-Variance Tradeoff](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.7.%20Bias-Variance.md) | ✅ |
+| 1.8 | [Regularization Fundamentals]() | 🚧 |
 | 1.9 | [Gradient Descent and Optimization](/) | ⏳ |
 | 1.10 | [Model Evaluation and Cross-Validation]() | ⏳ |
 | 1.11 | [Evaluation Metrics]() | ⏳ |
