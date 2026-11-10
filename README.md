@@ -36,26 +36,21 @@ By working through this handbook, readers will be able to:
 
 | # | Topic | Status |
 |---|-------|:------:|
-| 1.1 | [Introduction to Machine Learning](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.1.%20Introduction.md) | ✅ |
-| 1.2 | [Types of Machine Learning](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.2.%20Type-of-ML.md) | ✅ |
-| 1.3 | [Data Preprocessing and Feature Engineering](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.3.%20DataPreprocessing-and-FeatureEngineering.md) |✅|
-| 1.4 | [Dataset Splitting](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.4.%20Dataset-Splitting.md) | ✅ |
-| 1.5 | [Model Training and Generalization](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.5.%20ModelTraining-and-Generalization.md) | ✅ |
-| 1.6 | [Overfitting and Underfitting](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.6.%20overfitting-and-underfitting.md) | ✅ |
-| 1.7 | [Bias-Variance Tradeoff](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.7.%20Bias-Variance.md) | ✅ |
-| 1.8 | [Regularization Fundamentals](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.8.%20Regularization-Fundamentals.md) | ✅ |
-| 1.9 | [Gradient Descent and Optimization](/) | 🚧 |
-| 1.10 | [Model Evaluation and Cross-Validation]() | ⏳ |
-| 1.11 | [Evaluation Metrics]() | ⏳ |
+| 1.1 | [Introduction to Machine Learning](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.01.%20Introduction.md) | ✅ |
+| 1.2 | [Types of Machine Learning](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.02.%20Type-of-ML.md) | ✅ |
+| 1.3 | [Data Preprocessing and Feature Engineering](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.03.%20DataPreprocessing-and-FeatureEngineering.md) | ✅ |
+| 1.4 | [Dataset Splitting](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.04.%20Dataset-Splitting.md) | ✅ |
+| 1.5 | [Model Training and Generalization](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.05.%20ModelTraining-and-Generalization.md) | ✅ |
+| 1.6 | [Overfitting and Underfitting](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.06.%20overfitting-and-underfitting.md) | ✅ |
+| 1.7 | [Bias-Variance Tradeoff](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.07.%20Bias-Variance.md) | ✅ |
+| 1.8 | [Regularization Fundamentals](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.08.%20Regularization-Fundamentals.md) | ✅ |
+| 1.9 | [Gradient Descent and Optimization](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.09.%20GradientDescent-and-Optimization.md) | ✅ |
+| 1.10 | [Model Evaluation and Cross-Validation](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.10.%20ModelEvaluation-and-CrossValidation.md) | ✅ |
+| 1.11 | [Evaluation Metrics]() | 🚧 |
 | 1.12 | [Hyperparameter Tuning]() | ⏳ |
 | 1.13 | [Data Leakage and scikit-learn Pipelines]() | ⏳ |
 
 ### 2. Supervised Learning
-
-| # | Topic | Status |
-|---|-------|:------:|
-
-#### 2.1 Regression
 
 | # | Topic | Status |
 |---|-------|:------:|
