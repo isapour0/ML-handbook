@@ -46,15 +46,15 @@ By working through this handbook, readers will be able to:
 | 1.8 | [Regularization Fundamentals](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.08.%20Regularization-Fundamentals.md) | ✅ |
 | 1.9 | [Gradient Descent and Optimization](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.09.%20GradientDescent-and-Optimization.md) | ✅ |
 | 1.10 | [Model Evaluation and Cross-Validation](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.10.%20ModelEvaluation-and-CrossValidation.md) | ✅ |
-| 1.11 | [Evaluation Metrics]() | 🚧 |
-| 1.12 | [Hyperparameter Tuning]() | ⏳ |
-| 1.13 | [Data Leakage and scikit-learn Pipelines]() | ⏳ |
+| 1.11 | [Evaluation Metrics](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.11.%20Evaluation-metrics.md) | ✅ |
+| 1.12 | [Hyperparameter Tuning](https://github.com/isapour0/ML-handbook/blob/main/Machine%20Learning/1.%20Foundations/1.12.%20Hyperparameter-Tuning.md) | ✅ |
+| 1.13 | [Data Leakage and scikit-learn Pipelines]() | ... |
 
 ### 2. Supervised Learning
 
 | # | Topic | Status |
 |---|-------|:------:|
-| 2.1.1 | [What Is Regression?]() | ⏳ |
+| 2.1.1 | [What Is Regression?]() | 🚧 |
 | 2.1.2 | [Simple Linear Regression]() | ⏳ |
 | 2.1.3 | [Multiple Linear Regression]() | ⏳ |
 | 2.1.4 | [Non-Linear and Polynomial Regression]() | ⏳ |
